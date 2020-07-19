@@ -2,7 +2,7 @@
 
 
 - 🔭 Blog: https://wstreet.vip
-- 🌱 Data visualization notes: https://www.yuque.com/streetex/fbqzli/
+- 🌱 Data visualization notes: https://www.yuque.com/streetex/fbqzli
 - 👯 Advanced series: https://www.yuque.com/streetex/msp6tb
 
 <!--
