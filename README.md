@@ -4,6 +4,7 @@
 - 🔭 Blog: https://wstreet.vip
 - 🌱 Data visualization notes: https://www.yuque.com/streetex/fbqzli
 - 👯 Advanced series: https://www.yuque.com/streetex/msp6tb
+- ✨ Github Data: https://wstreet7.gitee.io/x-screen/#/
 
 <!--
 **wstreet/wstreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
