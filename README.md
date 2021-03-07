@@ -14,4 +14,4 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%2375afcc)
 ![Git](https://img.shields.io/badge/-Git-%23f54d27)
 
-[![Wstreet's github stats](https://github-readme-stats.vercel.app/api?username=wstreet)](https://github.com/anuraghazra/github-readme-stats)
+[![Wstreet's github stats](https://github-readme-stats.vercel.app/api?username=wstreet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
