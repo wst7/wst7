@@ -6,6 +6,9 @@
 - 👯 前端进阶: https://www.yuque.com/streetex/msp6tb
 - ✨ Github数据大屏: https://wstreet7.gitee.io/x-screen/#/
 
+
+![profile views](https://komarev.com/ghpvc/?username=wstreet&style=plastic)
+
 ### 技术栈
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
