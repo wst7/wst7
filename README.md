@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋  
 
 - 🔭 Blog: https://wstreet.github.io/blog
 - 🌱 数据可视化学习: https://www.yuque.com/streetex/fbqzli
@@ -7,7 +6,7 @@
 - ✨ Github数据大屏: https://wstreet7.gitee.io/x-screen/#/
 
 
-![profile views](https://komarev.com/ghpvc/?username=wstreet&style=plastic)
+
 
 ### 技术栈
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
@@ -20,3 +19,5 @@
 [![Wstreet's github stats](https://github-readme-stats.vercel.app/api/?username=wstreet&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wstreet&theme=tokyonight&layout=compact&&langs_count=6&hide=css,html,stylus,ejs,shell,glsl)](https://github.com/anuraghazra/github-readme-stats)  
+
+![profile views](https://komarev.com/ghpvc/?username=wstreet&style=plastic)
