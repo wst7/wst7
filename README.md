@@ -18,6 +18,6 @@
 
 [![Wstreet's github stats](https://github-readme-stats.vercel.app/api/?username=wstreet&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wstreet&theme=tokyonight&layout=compact&&langs_count=6&hide=css,html,stylus,ejs,shell,glsl)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wstreet&theme=tokyonight&layout=compact&&langs_count=10&hide=css,html,stylus,ejs,shell,glsl)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![profile views](https://komarev.com/ghpvc/?username=wstreet&style=plastic)
