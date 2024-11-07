@@ -1,16 +1,12 @@
 ### Hi there 👋  
 
-- 🔒 Requedit: Https(s)抓包工具(https://github.com/requedit/requedit)
+- 🔒 Requedit: Https(s) proxy tool(https://github.com/requedit/requedit)
 - 🔭 Blog: https://wstreet.github.io/blog
-- 🌱 数据可视化学习: https://www.yuque.com/streetex/fbqzli
-- 👯 前端进阶: https://www.yuque.com/streetex/msp6tb
-- ✨ Github数据大屏: https://wstreet7.gitee.io/x-screen/#/
-- 🚗 go-blog: https://github.com/wstreet/go-blog
 
 
 
 
-### 技术栈
+
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
 ![React](https://img.shields.io/badge/-React-%2361dafb)
