@@ -9,10 +9,13 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![Typescript](https://img.shields.io/badge/-Typescript-%234476c0)
 ![React](https://img.shields.io/badge/-React-%2361dafb)
-![Redux](https://img.shields.io/badge/-Redux-%237747bc)
+![Vue](https://img.shields.io/badge/-Vue-%2365b687)
+![Rust](https://img.shields.io/badge/-Rust-%23f54d27)
 ![Webpack](https://img.shields.io/badge/-Webpack-%2375afcc)
 ![Git](https://img.shields.io/badge/-Git-%23f54d27)
+
 
 [![Wstreet's github stats](https://github-readme-stats.vercel.app/api/?username=wstreet&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
