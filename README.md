@@ -1,6 +1,7 @@
-### Hi there 👋  
 
-- 🔒 Requedit: Https(s) proxy tool(https://github.com/requedit/requedit)
+### Projects
+- 🔒 [Requedit](https://github.com/requedit/requedit): Https(s) proxy tool
+- ✅ [Tam](https://github.com/wst7/tam): Tam is a task manager CLI tool written in Rust.
 - 🔭 Blog: https://wst7.github.io/blog
 
 
