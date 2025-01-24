@@ -21,4 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wst7&theme=tokyonight&layout=compact&&langs_count=10&hide=css,html,stylus,ejs,shell,glsl)](https://github.com/anuraghazra/github-readme-stats)  
 
+![Leetcode calendar](https://api-leetcode-stats.vercel.app/api/calendar?username=streetd&theme=dark)
+
+
 ![profile views](https://komarev.com/ghpvc/?username=wst7&style=plastic)
