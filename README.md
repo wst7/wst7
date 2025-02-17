@@ -4,7 +4,7 @@
 - ✅ [Tam](https://github.com/wst7/tam): Tam is a task manager CLI tool written in Rust.
 - 🔭 Blog: https://wst7.github.io/blog
 
-
+![profile views](https://komarev.com/ghpvc/?username=wst7&style=plastic)
 
 
 
@@ -18,11 +18,12 @@
 ![Git](https://img.shields.io/badge/-Git-%23f54d27)
 
 
-[![Wst7's github stats](https://github-readme-stats.vercel.app/api/?username=wst7&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=wst7&theme=radical&langs_count=10"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wst7&theme=tokyonight&layout=compact&&langs_count=10&hide=css,html,stylus,ejs,shell,glsl"  />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wst7&theme=tokyonight&layout=compact&&langs_count=10&hide=css,html,stylus,ejs,shell,glsl)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Leetcode calendar](https://api-leetcode-stats.vercel.app/api/calendar?username=streetd&theme=dark)](https://github.com/wst7/leetcode-stats)
+<img src="https://api-leetcode-stats.vercel.app/api/calendar?username=streetd&theme=dark"  />
 
 
-![profile views](https://komarev.com/ghpvc/?username=wst7&style=plastic)
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
