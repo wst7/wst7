@@ -17,13 +17,15 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%2375afcc)
 ![Git](https://img.shields.io/badge/-Git-%23f54d27)
 
+<div>
+  <img style="height:190px"  src="https://github-readme-stats.vercel.app/api/?username=wst7&theme=radical&langs_count=10"  />
+  <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wst7&theme=tokyonight&layout=compact&&langs_count=10&hide=css,html,stylus,ejs,shell,glsl"  />
+</div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=wst7&theme=radical&langs_count=10"  />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wst7&theme=tokyonight&layout=compact&&langs_count=10&hide=css,html,stylus,ejs,shell,glsl"  />
 
 <img src="https://api-leetcode-stats.vercel.app/api/calendar?username=streetd&theme=dark"  />
 
 
 
 
-![](./profile-3d-contrib/profile-night-green.svg)
+
