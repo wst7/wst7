@@ -23,7 +23,6 @@
 </div>
 
 
-<img src="https://api-leetcode-stats.vercel.app/api/calendar?username=streetd&theme=dark"  />
 
 
 
