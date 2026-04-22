@@ -2,6 +2,8 @@
 ### Projects
 - 🔒 [Requedit](https://github.com/requedit/requedit): Https(s) proxy tool
 - ✅ [Tam](https://github.com/wst7/tam): Tam is a task manager CLI tool written in Rust.
+- 📋 [Clipon](https://github.com/wst7/clipon): Clipon is a lightweight clipboard manager.
+- 🏃 [RunX](https://github.com/wst7/runx): Cross-platform code runner. Supports JavaScript & TypeScript
 - 🔭 Blog: https://wst7.github.io/blog
 
 ![profile views](https://komarev.com/ghpvc/?username=wst7&style=plastic)
