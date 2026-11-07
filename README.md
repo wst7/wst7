@@ -10,11 +10,10 @@ Shandong, China · [Blog](https://wst7.github.io/blog) · [Email](mailto:wstreet
 
 ## Projects
 
+- 📚 **[Trovia](https://github.com/wst7/trovia)** — A local-first read-later app for Android: reads a saved link on-device, then finds it again from a vague description · `TypeScript` · [demo](https://wst7.github.io/trovia)
 - 🦀 **[Tam](https://github.com/wst7/tam)** — A task manager CLI tool · `Rust` · ★2
 - 📋 **[Pastoid](https://github.com/wst7/pastoid)** — A lightweight, fast clipboard manager · `Rust`
 - 🐱 **[Gum](https://github.com/wst7/gum)** — GitHub user manager CLI · `TypeScript`
-- 🏃 **[RunX](https://github.com/wst7/runx)** — Cross-platform code runner for JavaScript & TypeScript · `TypeScript`
-- 🌐 **[Requedit](https://github.com/requedit/requedit)** — A simple HTTP request proxy tool · `TypeScript` · ★2
 - 🎓 **[backend-learning](https://github.com/wst7/backend-learning)** — A hands-on backend learning project for frontend developers: runnable experiments plus a teaching Skill
 
 ## Learning by rebuilding
