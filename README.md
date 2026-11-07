@@ -10,11 +10,11 @@ Shandong, China · [Blog](https://wst7.github.io/blog) · [Email](mailto:wstreet
 
 ## Projects
 
-- 📚 **[Trovia](https://github.com/wst7/trovia)** — A local-first read-later app for Android: reads a saved link on-device, then finds it again from a vague description · `TypeScript` · [demo](https://wst7.github.io/trovia) <img src="https://img.shields.io/github/stars/wst7/trovia?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
+- 📚 **[Trovia](https://github.com/wst7/trovia)** — A local-first read-later app for Android: reads a saved link on-device, then finds it again from a vague description · `TypeScript` <img src="https://img.shields.io/github/stars/wst7/trovia?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
 - 🦀 **[Tam](https://github.com/wst7/tam)** — A task manager CLI tool · `Rust` <img src="https://img.shields.io/github/stars/wst7/tam?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-- 📋 **[Pastoid](https://github.com/wst7/pastoid)** — A lightweight, fast clipboard manager · `Rust`
-- 🐱 **[Gum](https://github.com/wst7/gum)** — GitHub user manager CLI · `TypeScript`
-- 🎓 **[backend-learning](https://github.com/wst7/backend-learning)** — A hands-on backend learning project for frontend developers: runnable experiments plus a teaching Skill
+- 📋 **[Pastoid](https://github.com/wst7/pastoid)** — A lightweight, fast clipboard manager · `Rust` <img src="https://img.shields.io/github/stars/wst7/pastoid?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
+- 🐱 **[Gum](https://github.com/wst7/gum)** — GitHub user manager CLI · `TypeScript` <img src="https://img.shields.io/github/stars/wst7/gum?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
+- 🎓 **[backend-learning](https://github.com/wst7/backend-learning)** — A hands-on backend learning project for frontend developers: runnable experiments plus a teaching Skill <img src="https://img.shields.io/github/stars/wst7/backend-learning?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
 
 ## Learning by rebuilding
 
